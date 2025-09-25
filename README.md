@@ -1,4 +1,4 @@
-# Latam Bank Microservices - Phase 1 (Simple)
+# BTS Bank Microservices - Phase 1 (Simple)
 
 ## Services & Ports
 - customer-service : 8081
